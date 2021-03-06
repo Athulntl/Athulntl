@@ -1,13 +1,13 @@
 
 # ATHUL-
-![mona-whisper](https://user-images.githubusercontent.com/64751167/95435221-f0266500-096f-11eb-8070-57f6721b1857.gif)
+![mona-whisper](https://user-images.aminated-gifs-corparate.gif)
 
 <h1 align="center">Hi, I'm <a href="https://www.instagram.com/i_am_albin_praveen/">ALBY </a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
 <p align="center">   <a href="https://github.com/ALBINPRAVEEN"><img src="https://github-readme-stats.vercel.app/api?username=albinpraveen" alt="ATHUL GITHUB stats"></a>
 <p align="center">   <strong><a href="https://albinpraveen.github.io/">Official Website</a></strong> 
 
-![M2TsZIT](https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif)
+![M2TsZIT](https://user-images.aminated-gifs-corporate-training.gif)
 </p> 
 
 <p align="center">❤ I'm currently [will be updated]</p> 
